@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Africa Tales</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="story1">First Story</string>
+</resources>
