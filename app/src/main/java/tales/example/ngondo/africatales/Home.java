@@ -16,8 +16,11 @@ public class Home extends MaterialNavigationDrawer {
     @Override
     public void init(Bundle savedInstanceState) {
 
-        //Adding sections to the navigation drawer
+        //Adding sections to the navigation drawer which will inflate the fragments
+        //in the whole app
         this.addSection(newSection("Story 1", new Story1()));
+        this.addSection(newSection("Story 2", new Story2()));
+
 
 
 
