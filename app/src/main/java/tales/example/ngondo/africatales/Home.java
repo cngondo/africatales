@@ -15,6 +15,8 @@ public class Home extends MaterialNavigationDrawer {
 
     @Override
     public void init(Bundle savedInstanceState) {
+        //Set the drawer header image
+        this.setDrawerHeaderImage(R.drawable.header);
 
         //Adding sections to the navigation drawer which will inflate the fragments
         //in the whole app
