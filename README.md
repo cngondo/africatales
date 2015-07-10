@@ -2,5 +2,4 @@
 #==============
 
 
-#A sample android app that shows the basic use of libraries and switching 
-#between activities
+#A sample android app that shows the basic use of libraries and switching between activities
